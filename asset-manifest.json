@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sistema-de-comandas/static/css/main.73645111.css",
+    "main.js": "/Sistema-de-comandas/static/js/main.ffe9a1d0.js",
+    "static/js/209.d0e47218.chunk.js": "/Sistema-de-comandas/static/js/209.d0e47218.chunk.js",
+    "static/js/103.0dd6b1a2.chunk.js": "/Sistema-de-comandas/static/js/103.0dd6b1a2.chunk.js",
+    "static/media/comanda.png": "/Sistema-de-comandas/static/media/comanda.fc4c97871cc8d8062995.png",
+    "index.html": "/Sistema-de-comandas/index.html",
+    "static/media/password.svg": "/Sistema-de-comandas/static/media/password.61dcee7f1ac864f21314.svg",
+    "static/media/passwordhover.svg": "/Sistema-de-comandas/static/media/passwordhover.aab4b65283468dc235ea.svg",
+    "static/media/email.svg": "/Sistema-de-comandas/static/media/email.05fa48013e6b076f5da8.svg",
+    "static/media/emailhover.svg": "/Sistema-de-comandas/static/media/emailhover.e8b65a08ebe5d508e3cf.svg",
+    "main.73645111.css.map": "/Sistema-de-comandas/static/css/main.73645111.css.map",
+    "main.ffe9a1d0.js.map": "/Sistema-de-comandas/static/js/main.ffe9a1d0.js.map",
+    "209.d0e47218.chunk.js.map": "/Sistema-de-comandas/static/js/209.d0e47218.chunk.js.map",
+    "103.0dd6b1a2.chunk.js.map": "/Sistema-de-comandas/static/js/103.0dd6b1a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73645111.css",
+    "static/js/main.ffe9a1d0.js"
+  ]
+}
